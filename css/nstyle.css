@@ -3,19 +3,37 @@
   font-style: italic;
 }
 
-.column {
-  width: 33%;
-  float: left;
-  background-color: yellow;
-  margin: 5px 10px 1px 40px;
+img {
+  width: 50%;
+  margin: 5px 0px 5px;
+  padding: 20px;
+
 }
 
-img {
-  width: 200px;
+.column {
+  width: 25%;
+  float: left;
+  background-color: yellow;
+  margin: 9px;
+  padding: 20px;
+  border: 1px solid #000;
 }
 
 .sidebar {
   width: 300px;
   float: left;
   background-color: blue;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.sidebar ul {
+  text-align: center;
+  padding-left: 50px;
+  background-color: red;
+}
+
+.text {
+  margin: 50px 0px 50px;
+  clear: both;
 }
