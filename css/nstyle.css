@@ -1,0 +1,21 @@
+.flashy {
+  color: #f00;
+  font-style: italic;
+}
+
+.column {
+  width: 33%;
+  float: left;
+  background-color: yellow;
+  margin: 5px 10px 1px 40px;
+}
+
+img {
+  width: 200px;
+}
+
+.sidebar {
+  width: 300px;
+  float: left;
+  background-color: blue;
+}
