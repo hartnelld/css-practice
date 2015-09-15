@@ -1,0 +1,34 @@
+body {
+  width: 720px;
+}
+
+.flashy {
+  color: #f00;
+  font-style: italic;
+}
+
+.best {
+  text-decoration: underline;
+  font-weight: bold;
+}
+
+img.preferred {
+  width: 300px;
+}
+
+.best .flashy {
+  text-decoration: underline;
+  color: blue;
+}
+
+.dollar {
+  color: green;
+}
+
+.locations {
+  font-size: 10px;
+}
+
+.pricing {
+  font-size: 20px;
+}
